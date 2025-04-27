@@ -1,0 +1,59 @@
+site_name: Learn Circuits 
+nav:
+  - Home: index.md
+  - Resistive Networks: 
+    - Introduciton: RNet/RNetIntro.md
+    - Node Analysis: RNet/NodeAnalysis.md
+theme:
+  logo: assets/logo.png
+  favicon: assets/logo.png  
+  name: material
+  icon:
+    repo: fontawesome
+  features:
+    - content.tabs.link
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.expand
+    # - toc.integrate
+    - content.code.copy
+    
+ 
+
+markdown_extensions:
+  - toc:
+      toc_depth: 4
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.arithmatex:
+      generic: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.snippets
+  - attr_list
+plugins:
+  - glightbox
+  - caption
+  - mkdocs-video
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css
+
+
+  
