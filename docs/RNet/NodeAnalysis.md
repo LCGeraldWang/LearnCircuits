@@ -30,7 +30,7 @@ Nodal analysis is a fundamental method in circuit theory used to determine the v
 #### Solution video (Ex1)
 
 !!! info "Solution video"    
-    ![type:video](https://www.youtube.com/embed/mSl2drycQKk)
+    ![type:video](https://www.youtube.com/embed/6ZtRfPAlot4)
 
 #### Step 1 (Ex1)
 
@@ -220,7 +220,7 @@ You can also verify that $I_1 - I_2 +I_3 = 0$.
       ![Example 2](img/nodeEx2.svg){ width="450" }
 ---
 !!! info "Solution video"    
-    ![type:video](https://www.youtube.com/embed/mSl2drycQKk)
+    ![type:video](https://www.youtube.com/embed/BFIvLJLiD58)
 
 The solutions of $I_1, I_2, I_3, V_1$ are exactly the same as the Example 1. There is still only one unknown voltage node `Node 1`.
 
@@ -246,7 +246,7 @@ The differences are the currents $I_{V1}, I_{V2}$.
 #### Solution video (Ex3)
 
 !!! info "Solution video"    
-    ![type:video](https://www.youtube.com/embed/mSl2drycQKk)
+    ![type:video](https://www.youtube.com/embed/BFIvLJLiD58)
 
 --- 
 #### Step 1 (Ex3)
@@ -439,7 +439,7 @@ $$
 #### Solution video (Ex4)
 
 !!! info "Solution video"    
-    ![type:video](https://www.youtube.com/embed/mSl2drycQKk)
+    ![type:video](https://www.youtube.com/embed/Q-1p2YxCsa0)
 
 --- 
 
@@ -507,7 +507,7 @@ $$
 #### Solution video (Ex5)
 
 !!! info "Solution video"    
-    ![type:video](https://www.youtube.com/embed/mSl2drycQKk)
+    ![type:video](https://www.youtube.com/embed/Q-1p2YxCsa0)
 
 --- 
 
