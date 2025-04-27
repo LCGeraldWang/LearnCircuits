@@ -1,4 +1,6 @@
 site_name: Learn Circuits 
+site_url: https://lcgeraldwang.github.io/learncircuits
+use_directory_urls: true
 nav:
   - Home: index.md
   - Resistive Networks: 
