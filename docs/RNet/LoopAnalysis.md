@@ -1,6 +1,6 @@
 # Loop Analysis
 
-Nodal analysis is a fundamental method in circuit theory used to determine the voltage at various points (nodes) in an electrical circuit. The basic concepts include:
+Loop Analysis is used to solve loop current. The basic concepts include:
 
 - **Loop**: A closed path in a circuit.
 - **Inner loop or mesh**: An inner loop or mesh is a loop that does not enclose any other loop.
