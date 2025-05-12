@@ -30,7 +30,7 @@ Nodal analysis is a fundamental method in circuit theory used to determine the v
 #### Solution video (Ex1)
 
 !!! info "Solution video"    
-    ![type:video](https://www.youtube.com/embed/6ZtRfPAlot4)
+    ![type:video](https://www.youtube.com/embed/UGg89zR3IcM)
 
 #### Step 1 (Ex1)
 
@@ -220,7 +220,7 @@ You can also verify that $I_1 - I_2 +I_3 = 0$.
       ![Example 2](img/nodeEx2.svg){ width="450" }
 ---
 !!! info "Solution video"    
-    ![type:video](https://www.youtube.com/embed/BFIvLJLiD58)
+    ![type:video](https://www.youtube.com/embed/rGny_H4v9x0)
 
 The solutions of $I_1, I_2, I_3, V_1$ are exactly the same as the Example 1. There is still only one unknown voltage node `Node 1`.
 
@@ -246,7 +246,7 @@ The differences are the currents $I_{V1}, I_{V2}$.
 #### Solution video (Ex3)
 
 !!! info "Solution video"    
-    ![type:video](https://www.youtube.com/embed/BFIvLJLiD58)
+    ![type:video](https://www.youtube.com/embed/rGny_H4v9x0)
 
 --- 
 #### Step 1 (Ex3)
@@ -439,7 +439,7 @@ $$
 #### Solution video (Ex4)
 
 !!! info "Solution video"    
-    ![type:video](https://www.youtube.com/embed/Q-1p2YxCsa0)
+    ![type:video](https://www.youtube.com/embed/0OuE0oDcsDs)
 
 --- 
 
@@ -507,7 +507,7 @@ $$
 #### Solution video (Ex5)
 
 !!! info "Solution video"    
-    ![type:video](https://www.youtube.com/embed/Q-1p2YxCsa0)
+    ![type:video](https://www.youtube.com/embed/0OuE0oDcsDs)
 
 --- 
 
@@ -554,18 +554,18 @@ $$
 Plug in numbers to the above two equations:
 
 $$
-1 - \frac{V_1}{12} -  \frac{V_1-V_2}{6} = 0\\
-\frac{V_1-V_2}{6} -  \frac{V_2}{6} - 4 = 0
+1 - \frac{V_1}{8} -  \frac{V_1-V_2}{2} = 0\\
+\frac{V_1-V_2}{2} -  \frac{V_2}{6} - 2 = 0
 $$
 
-We can solve $V_1 = -6V$ and $V_2 = -15V$.
+We can solve $V_1 = -2V$ and $V_2 = -4.5V$.
 
 Using Ohm's Law, we can find all the currents.
 
 $$
-I_1 = \frac{V_1}{R_1} = \frac{-6}{12}=-0.5A\\
-I_2 = \frac{V_1-V_2}{R_2} = \frac{-6+15}{6}=1.5A\\
-I_3 = \frac{V_2}{R_3} = \frac{-15}{6}=-2.5A
+I_1 = \frac{V_1}{R_1} = \frac{-2}{8}=-0.25A\\
+I_2 = \frac{V_1-V_2}{R_2} = \frac{-2+4.5}{2}=1.25A\\
+I_3 = \frac{V_2}{R_3} = \frac{-4.5}{6}=-0.75A
 $$
 
 ---

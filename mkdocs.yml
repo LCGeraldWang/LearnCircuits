@@ -6,6 +6,7 @@ nav:
   - Resistive Networks: 
     - Introduciton: RNet/RNetIntro.md
     - Node Analysis: RNet/NodeAnalysis.md
+    - Loop Analysis: RNet/LoopAnalysis.md
 theme:
   logo: assets/logo.png
   favicon: assets/logo.png  
